@@ -1,5 +1,8 @@
 body {
     /* overflow: hidden; */
+    height: 100vh !important;
+    width: 100vw !important;
+    overflow: hidden !important;
     font-family: "Roboto", serif;
     background: linear-gradient(135deg, black, #220033);
 }
